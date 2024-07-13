@@ -2,7 +2,7 @@
  * @Author: hiddenSharp429 z404878860@163.com
  * @Date: 2024-07-13 17:44:04
  * @LastEditors: hiddenSharp429 z404878860@163.com
- * @LastEditTime: 2024-07-13 19:45:36
+ * @LastEditTime: 2024-07-13 20:04:28
  * @FilePath: /LR(0)_analysis/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -15,17 +15,23 @@
 Wish you a happy use～
 
 ## Appendix
-Grammar1(Augmented Grammar) screenshot
+Grammar1(Augmented Grammar) screenshot 
+
 ![](https://pic.imgdb.cn/item/669267d7d9c307b7e93e6d9c.png)
 
+
 Main program page screenshot
+
 ![](https://pic.imgdb.cn/item/669267d7d9c307b7e93e6dc4.png)
 
 View State Sets screenshot
+
 ![](https://pic.imgdb.cn/item/669267d7d9c307b7e93e6df0.png)
 
 View State Table screenshot
+
 ![](https://pic.imgdb.cn/item/669267d7d9c307b7e93e6e21.png)
 
 Analyze string
+
 ![](https://pic.imgdb.cn/item/669267d7d9c307b7e93e6e4f.png)
