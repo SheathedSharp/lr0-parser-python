@@ -1,12 +1,7 @@
-"""
-@coding : utf-8
-@File   : main.py
-@Author : zixian Zhu(hiddensharp)
-@Date   : 2023/12/10
-@Desc   :
-@Version:
-@Last_editor
-"""
+'''
+Author: SheathedSharp z404878860@163.com
+Date: 2024-07-13 17:39:53
+'''
 import tkinter as tk
 from tkinter import filedialog, messagebox
 from read_grammar import ReadGrammar

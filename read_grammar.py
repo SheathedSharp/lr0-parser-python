@@ -1,13 +1,7 @@
-"""
-@coding : utf-8
-@File   : read_grammar.py
-@Author : zixian Zhu(hiddensharp)
-@Date   : 2023/12/10
-@Desc   : 返回一个能够给lr0分析器分析的字典并自动变成增广文法
-@Version:
-@Last_editor
-"""
-
+'''
+Author: SheathedSharp z404878860@163.com
+Date: 2024-07-13 17:39:53
+'''
 import re
 
 class ReadGrammar(dict):
